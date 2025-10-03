@@ -1,11 +1,18 @@
 # 📈 Stock Terminal - Professional Financial Analysis Platform
 
-> A **100% complete** Bloomberg-style financial terminal with **tabbed interface**, advanced charting, technical indicators, SEC filings, equity screening, and data export capabilities.
+> A **100% complete** Bloomberg-style financial terminal with **12 enterprise features**, advanced charting, AI sentiment analysis, real-time portfolio tracking, and professional Excel export capabilities.
 
-![Version](https://img.shields.io/badge/version-3.0.0-green)
-![Status](https://img.shields.io/badge/status-100%25%20complete-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Interface](https://img.shields.io/badge/interface-tabbed-blue)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-GitHub_Pages-success?style=for-the-badge)](https://nielhitesh01.github.io/stock-terminal/)
+[![Version](https://img.shields.io/badge/version-4.0.0-green?style=flat-square)](https://github.com/NielHitesh01/stock-terminal)
+[![Status](https://img.shields.io/badge/status-100%25%20complete-success?style=flat-square)](https://github.com/NielHitesh01/stock-terminal)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![Features](https://img.shields.io/badge/features-12-orange?style=flat-square)](https://github.com/NielHitesh01/stock-terminal)
+
+## 🌟 Live Demo
+
+**Try it now:** [https://nielhitesh01.github.io/stock-terminal/](https://nielhitesh01.github.io/stock-terminal/)
+
+*No installation required - runs directly in your browser!*
 
 ## 🎯 Quick Start
 
